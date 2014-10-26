@@ -1,5 +1,5 @@
 ##Tutorial de módulos em laravel pode ser lido no link:
-[Modulos em Laravel](http://www.laravel.com.br/entendendo-e-trabalhando-com-modulos-no-laravel-4-2/)
+[Módulos em Laravel](http://www.laravel.com.br/entendendo-e-trabalhando-com-modulos-no-laravel-4-2/)
 
 ## Laravel PHP Framework
 
