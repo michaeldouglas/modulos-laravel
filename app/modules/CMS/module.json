@@ -1,0 +1,10 @@
+{
+    "order": 2,
+    "enabled": true,
+    "provider": [
+        "App\\Modules\\Cms\\CmsServiceProvider"
+    ],
+    "include": [
+        "breadcrumbs.php"
+    ]
+}
