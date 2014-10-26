@@ -1,3 +1,6 @@
+##Tutorial de módulos em laravel pode ser lido no link:
+[Modulos em Laravel](http://www.laravel.com.br/entendendo-e-trabalhando-com-modulos-no-laravel-4-2/)
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
