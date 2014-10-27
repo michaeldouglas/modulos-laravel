@@ -1,3 +1,7 @@
 {
-    "order": 1
+    "order": 1,
+    "enabled": true,
+    "provider": [
+        "App\\Modules\\Admin\\AdminServiceProvider"
+    ]
 }

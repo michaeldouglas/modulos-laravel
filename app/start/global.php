@@ -10,10 +10,9 @@
 | your classes in the "global" namespace without Composer updating.
 |
 */
-
 ClassLoader::addDirectories(array(
-        app_path().'modules/CMS/admin',
-        app_path().'modules/CMS/admin',
+        app_path().'/modules/CMS/controllers',
+        app_path().'/modules/Admin/controllers',
 	app_path().'/commands',
 	app_path().'/controllers',
 	app_path().'/models',

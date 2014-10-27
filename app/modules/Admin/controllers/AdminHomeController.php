@@ -1,5 +1,5 @@
 <?php
-class CMSHomeController extends BaseController {
+class AdminHomeController extends BaseController{
     public function home(){
         return View::make('CMS::home.home');
     }
