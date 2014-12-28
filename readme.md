@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/michaeldouglas/modulos-laravel)](https://travis-ci.org/michaeldouglas/modulos-laravel)
 ## Laravel PHP Framework
 
-[![Build Status](https://api.travis-ci.org/michaeldouglas/modulos-laravel.svg)](https://travis-ci.org/laravel/framework)
+[![Build Status](https://travis-ci.org/michaeldouglas/modulos-laravel.svg?branch=master)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
